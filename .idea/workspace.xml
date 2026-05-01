@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="ALL" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="decceb2a-144a-41e9-a59e-f900cffabb42" name="Changes" comment="Add the ball bouncing logic">
+    <list default="true" id="decceb2a-144a-41e9-a59e-f900cffabb42" name="Changes" comment="how to detect collision with paddle">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ball.py" beforeDir="false" afterPath="$PROJECT_DIR$/ball.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
@@ -123,7 +123,7 @@
       <option name="presentableId" value="Default" />
       <updated>1777573834292</updated>
       <workItem from="1777573835413" duration="1030000" />
-      <workItem from="1777651934947" duration="2665000" />
+      <workItem from="1777651934947" duration="3003000" />
     </task>
     <task id="LOCAL-00001" summary="Setup main screen">
       <option name="closed" value="true" />
@@ -157,7 +157,15 @@
       <option name="project" value="LOCAL" />
       <updated>1777654278290</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="how to detect collision with paddle">
+      <option name="closed" value="true" />
+      <created>1777654761091</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1777654761091</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -211,10 +219,11 @@
     <MESSAGE value="Write the Paddle Class and Create the Second Paddle" />
     <MESSAGE value="Write the Ball Class and Make the Ball Move" />
     <MESSAGE value="Add the ball bouncing logic" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add the ball bouncing logic" />
+    <MESSAGE value="how to detect collision with paddle" />
+    <option name="LAST_COMMIT_MESSAGE" value="how to detect collision with paddle" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/Python_Pong_game$main.coverage" NAME="main Coverage Results" MODIFIED="1777654537970" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Python_Pong_game$main.coverage" NAME="main Coverage Results" MODIFIED="1777654681200" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Python_Pong_game$paddle.coverage" NAME="paddle Coverage Results" MODIFIED="1777652540651" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/.venv" />
   </component>
 </project>
